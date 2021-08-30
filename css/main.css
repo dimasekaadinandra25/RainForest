@@ -413,6 +413,10 @@ header ._header .fas:hover + li span {
   padding-bottom: 10px;
 }
 
+._section-four .view-container .box-image img {
+  width: 100%;
+}
+
 ._section-four .view-container .box-image img:hover {
   background: grey;
 }

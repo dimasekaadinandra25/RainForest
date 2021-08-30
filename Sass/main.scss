@@ -372,6 +372,10 @@ header{
     & .box-image{
       padding-bottom: 10px;
 
+      & img{
+        width: 100%;
+      }
+
       & img:hover{
         background: grey;
       }
