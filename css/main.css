@@ -417,10 +417,6 @@ header ._header .fas:hover + li span {
   width: 100%;
 }
 
-._section-four .view-container .box-image img:hover {
-  background: grey;
-}
-
 footer {
   font-family: var(--font-family);
 }
