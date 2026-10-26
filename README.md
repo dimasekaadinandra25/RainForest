@@ -1,3 +1,3 @@
 Sebuah Landing Page yang bertemakan RainForest
 
-https://dimascapella.github.io/RainForest/
+https://dimasekaadinandra25.github.io/RainForest/
